@@ -32,6 +32,7 @@ A line-by-line explanation of the above:
 
 - Paste the example into `.github/workflows/hello-world.yaml`.
 - Add and commit the file and push it to Github. 
+
 - Go to Github Actions tab of the repository and check the action status.
 
 ## Results
